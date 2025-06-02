@@ -70,7 +70,7 @@ Contributions are welcome! If you have suggestions for improving the password cr
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details (if you create one).
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👤 Author
 
